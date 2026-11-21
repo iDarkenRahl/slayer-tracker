@@ -19,4 +19,8 @@ Slayer Tracker is a RuneLite sidebar plugin for tracking Old School RuneScape Sl
 3. View your current task and Slayer statistics in **Overview**.
 4. Use **Monsters** to explore assignment totals and **History** to review individual tasks.
 
-Slayer assignment and monster information is derived from the [Old School RuneScape Wiki](https://oldschool.runescape.wiki/w/Slayer_task).
+## Data Sources and Attribution
+
+Slayer Tracker uses Slayer assignment and monster information derived from the [Old School RuneScape Wiki](https://oldschool.runescape.wiki/w/Slayer_task).\
+Credit goes to the OSRS Wiki contributors.\
+Wiki-derived content is subject to the [Creative Commons BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
